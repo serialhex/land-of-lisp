@@ -4,7 +4,7 @@
 						(garden (you are in a beautiful garden.
 							there is a well in front of you.))
 						(attic (you are in the attic.
-							there is a giant weldong torch in the corner.))))
+							there is a giant welding torch in the corner.))))
 
 ; we can get associations thusly:
 (assoc 'garden *nodes*)
