@@ -207,3 +207,5 @@
           ((= x *player-strength*)
             (princ "A brigand cuts your arm with his whip, taking off 2 strength points! ")
             (decf *player-strength* 2)))))
+
+(orc-battle)
